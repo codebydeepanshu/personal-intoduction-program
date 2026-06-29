@@ -1,0 +1,8 @@
+# requirements.txt
+# Personal Introduction Program
+#
+# This project uses only Python built-in functions (input, print, f-strings).
+# No external packages are required.
+#
+# Python version: 3.7 or higher
+# To check your Python version: python --version
